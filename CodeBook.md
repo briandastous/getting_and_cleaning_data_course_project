@@ -116,7 +116,7 @@ tBodyGyroMag-mean()
 *  mean of the magnitude of the angular velocity
 
 tBodyGyroMag-std()
-**  standard deviation of the magnitude of the angular velocity
+*  standard deviation of the magnitude of the angular velocity
 
 tBodyGyroJerkMag-mean()
 *  mean of the magnitude of the jerk of the angular velocity
