@@ -1,3 +1,10 @@
+# Units
+
+- The units of all acceleration measurements (including means and standard deviations) are standard gravity units (g).
+- The units of all angular velocity measurements are in radians/second.
+
+# Variables
+
 subject
 *  the identifier of the subject who carried out the experiment
 
